@@ -1,1 +1,1 @@
-# ParadigmaOO
+# Colecciones
